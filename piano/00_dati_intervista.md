@@ -27,9 +27,10 @@
 | Supervisione | ~700 €/anno |
 | Assicurazione RC | 200 €/anno |
 | Da acquistare | abbonamento a uno strumento di IA |
-| Regime fiscale | contabilità semplificata; possibile passaggio al forfettario dal 2027 (dipende dal reddito da lavoro dipendente) |
-| Docenza universitaria | ~3.000 €/anno con prestazione occasionale |
-| Lavoro dipendente | part-time al 50% con autorizzazione alla professione di psicologo; TFR; contributi INPS dal 1996 |
+| Regime fiscale | contabilità semplificata (IRPEF ordinaria): il reddito della libera professione si somma a quello da lavoro dipendente; possibile passaggio al forfettario dal 2027 (dipende dal reddito da lavoro dipendente 2026) |
+| Docenza universitaria | ~3.000 €/anno; incarico come **docente a contratto SSN** (in quanto dipendente), contributi versati a **ENPAPI** |
+| Lavoro dipendente | Azienda Ospedaliero-Universitaria, **profilo di infermiere** (con funzioni di progettazione formativa); part-time al 50%; autorizzato a svolgere la professione di psicologo, **formazione inclusa**; **netto ~2.000 €/mese** (docenza esclusa); TFR; contributi INPS dal 1996; iscritto al fondo pensione **Perseo Sirio** |
+| Contributi previdenziali | ENPAP per il reddito da libera professione; INPS per il lavoro dipendente; ENPAPI per la docenza |
 
 ## C. Psicoterapia di gruppo
 - Impostazione gruppoanalitica, ~7 partecipanti, semi-aperto: si entra solo se c'è un posto libero e dopo un colloquio individuale.
@@ -40,12 +41,20 @@
 ## D. Eventi e progetti
 - **Aperitivo Psicologico** (Trofarello): ~20 partecipanti, di cui 3–4 nuovi a ogni incontro. Temi diversi pubblicizzati di volta in volta, con un programma annuale sul sito. Struttura: introduzione teorica, poi esperienze, riflessioni e domande. Lascia schede con esercizi sul tema e i propri recapiti. Invita a iscriversi al canale WhatsApp; non raccoglie contatti, ma molti gli hanno scritto spontaneamente. Costo per lui: la propria consumazione.
 - **Libro** "E se avesse ragione la Cicala?": ~10 copie vendute e ~10 regalate. Tema: come le esperienze e le favole ci vincolano a significati condivisi senza che ne siamo consapevoli.
-- **Scuola di specializzazione**: SGAI (Diego Napolitani, antropo-gruppoanalitica), la scuola in cui si è formato. Compensi ancora non noti.
+- **Scuola di specializzazione**: SGAI (Diego Napolitani, antropo-gruppoanalitica), la scuola in cui si è formato. Compensi ancora non noti. Impegno: **2 h/settimana in orario serale** (fasce non usate per le sedute), che diventeranno ore di docenza.
 
 ## E. Profilo e obiettivi
 - **Formazione**: gruppoanalista; EMDR I e II livello; gruppi; DNA; mindfulness. Ecopsicologia e forest therapy solo attraverso i corsi dell'Ordine, senza esperienza pratica di outdoor.
 - **Presenza online**: sito con blog; profilo gratuito su Psicologi Italia; Facebook ~3.500 follower; Instagram ~700; canale WhatsApp. Gestisce tutto da solo.
 - **Settimana tipo**: Azienda martedì, mercoledì e giovedì (a settimane alterne); il resto è distribuito tra le altre attività, senza un'organizzazione formale.
-- **Reddito netto mensile necessario per lasciare l'Azienda**: 5.000 € (*da chiarire se totale o in aggiunta*).
+- **Soglia per lasciare l'Azienda**: **5.000 € LORDI al mese in totale** (≈ 60.000 €/anno di fatturato professionale complessivo).
+- **Età**: 54 anni (nel 2026).
 - **Situazione familiare**: la compagna lavora; nessun vincolo rilevante. Propensione al rischio 4/5.
 - **Attività da mantenere assolutamente**: psicoterapia individuale, psicoterapia di gruppo, Aperitivo Psicologico.
+
+## Aggiornamento del 28/09/2026 (risposte alle decisioni della Fase 1)
+- **Tariffa**: 70–75 € per i nuovi pazienti (già in programma).
+- **Studio di Torino**: troppo piccolo per un gruppo. Il gruppo in presenza si fa a Trofarello.
+- **Gruppo online**: interessante ma lo ritiene più complicato; chiede aiuto per organizzarlo (vedi Fase 3).
+- **Aperitivo**: disponibile a chiedere un'iscrizione per i prossimi incontri.
+- **Posizionamento "Pensare insieme"**: non chiaro, va spiegato meglio (vedi `01_analisi.md` §7).

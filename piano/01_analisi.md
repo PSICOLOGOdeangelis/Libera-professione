@@ -13,7 +13,7 @@
 | Clinica | EMDR I e II livello | Media-alta: molto richiesta per ansia e trauma, ed è una parola che anche il pubblico conosce |
 | Clinica | DNA (disturbi della nutrizione e dell'alimentazione) | Media-alta: area con forte domanda e forti invianti potenziali (MMG, nutrizionisti, dietisti) |
 | Clinica | Mindfulness | Media: utile per gruppi psicoeducativi e per l'outdoor |
-| Organizzazioni | Psicologo del lavoro, progettista della formazione in un'Azienda Ospedaliero-Universitaria | **Alta**: conosci dall'interno l'ECM, la formazione per la PA, i bandi e i capitolati; pochi clinici hanno questa competenza |
+| Organizzazioni | Psicologo del lavoro; in Azienda Ospedaliero-Universitaria (profilo di infermiere) ti occupi di progettazione formativa | **Alta**: conosci dall'interno l'ECM, la formazione per la PA, i bandi e i capitolati; pochi clinici hanno questa competenza |
 | Didattica | Docenza universitaria (UniTo e UNIUPO), formazione in azienda, futura docenza SGAI | Alta: credibilità, facilità a parlare in pubblico, capacità di progettare format |
 | Divulgazione | Autore di un libro, conduttore di eventi pubblici, blog | Media: il libro è un asset di reputazione più che di vendita |
 | Outdoor | Solo formazione teorica (ecopsicologia, forest therapy) | **Bassa**: oggi è un interesse, non una competenza da offrire; va costruita (Fase 3E) |
@@ -41,13 +41,13 @@
 | Clinica individuale (sedute) | ~26 | 5–7 sedute a settimana |
 | Gestione clinica (note, contatti, fatture) | ~6 | |
 | Docenza UniTo e UNIUPO (100 h/anno + esami + consigli) | ~12 di media | con picchi negli appelli |
-| Affiancamento SGAI | ? | **da quantificare** |
+| Affiancamento SGAI | ~8 | 2 h/settimana, serali |
 | Social e post | ~13 | 3 h/settimana |
 | Aperitivo (preparazione, evento, promozione) | ~6 | [IPOTESI] |
 | Blog e sito | ? | |
 | Biblioteca, Comuni, rete MMG (avvio) | ~4–6 | |
 | Supervisione | ~2 | |
-| **Totale lavoro** | **~150–160** | ≈ 35–37 h/settimana |
+| **Totale lavoro** | **~160–165** | ≈ 37–38 h/settimana |
 
 **Primo dato che emerge:** oggi dedichi **~20 ore al mese alla promozione** (social + Aperitivo), per un fatturato clinico di ~1.300–1.700 € al mese. Il problema non è l'impegno, ma **dove va a finire**: parte di queste ore produce reputazione, ma non pazienti per il gruppo.
 
@@ -64,9 +64,9 @@
 | 5 | Lo psicologo tra le righe | divulgazione per giovani adulti | in avvio | ~3 (stima) | 0 | 0 | accesso al target 18–35 |
 | 6 | Formazione ai caregiver (Comuni) | formazione a pagamento, aperta alla cittadinanza | Santena interessata, Trofarello non risponde | ~3 | 0 per ora | 0 | **primo servizio pagato da un terzo, e replicabile** |
 | 7 | Libro | promozione | ~20 copie | 0 | irrilevanti | — | autorevolezza |
-| 8 | Docenza SGAI | ingresso nel corpo docente | affiancamento | ? | ? | — | rete di invio, identità professionale |
-| 9 | Docenza universitaria | didattica | ~100 h/anno | ~12 | ~3 k€ | — | reputazione |
-| 10 | Lavoro dipendente | reddito fisso | part-time al 50% | ~78 | stipendio **(dato mancante)** | — | contributi, stabilità |
+| 8 | Docenza SGAI | ingresso nel corpo docente | affiancamento | ~8 (2 h/settimana, serali) | ? | — | rete di invio, identità professionale |
+| 9 | Docenza universitaria (docente a contratto SSN, ENPAPI) | didattica | ~100 h/anno | ~12 | ~3 k€ | — | reputazione; **legata al rapporto con il SSN** |
+| 10 | Lavoro dipendente (infermiere, part-time al 50%) | reddito fisso | ~2.000 € netti/mese | ~78 | ~24–26 k€ netti | — | contributi INPS, TFR, Perseo Sirio, stabilità |
 
 **Cosa si legge nella mappa**
 - La psicoterapia individuale **converte bene** (3 primi colloqui su 3–4). Il limite è il **numero di contatti in entrata**: ne servono di più.
@@ -80,7 +80,7 @@
 | **Punti di forza** | **Debolezze** |
 |---|---|
 | Identità gruppoanalitica, rara e coerente con quasi tutto quello che fai | Base clinica ancora piccola (5–7 pazienti) e nessuno storico di fatturato |
-| Doppia competenza clinica e organizzativa (progettista ECM, psicologo del lavoro) | Tariffa di 60 € bassa per uno psicoterapeuta con EMDR e gruppoanalisi **[IPOTESI da verificare sul mercato locale]** |
+| Doppia competenza clinica e organizzativa (progettazione formativa ECM in Azienda, psicologo del lavoro) | Tariffa di 60 € bassa per uno psicoterapeuta con EMDR e gruppoanalisi **[IPOTESI da verificare sul mercato locale]** |
 | Tasso di conversione dei primi colloqui molto alto | Tempo frammentato: Azienda, due università, SGAI, eventi, online distribuito su tutta la settimana |
 | Studio di proprietà, costi fissi molto bassi (~3,3 k€/anno) | Nessun sistema di misura: non sai da quale evento o post arriva ciascun paziente |
 | Comunità viva (Aperitivo) e buona presenza sui social locali | Promozione fatta tutta da te, senza un'identità chiara (fai "tante cose belle") |
@@ -122,7 +122,7 @@ Il funnel ha tre livelli: **come vieni conosciuto** (visibilità) → **cosa ti 
 | G3 | **Il semi-aperto senza data non crea un'occasione.** Senza una data di avvio, un numero di posti e un "prossimo colloquio di selezione", non c'è un motivo per scrivere *adesso*. | Strutturale |
 | G4 | **Troppi passaggi.** Post → sito → pagina → contatto. Per un servizio sensibile, ogni passaggio fa perdere persone. | Strutturale |
 | G5 | **Pubblico organico ≠ pubblico locale.** 2–3 mila visualizzazioni e ~20 like vengono soprattutto da chi ti segue già, non necessariamente da chi abita a Trofarello e dintorni. | Controllare in Meta Business Suite la geografia dei follower |
-| G6 | **Il paese piccolo è un problema clinico, non solo commerciale.** In un gruppo gruppoanalitico è preferibile che i membri non abbiano rapporti fuori dal setting. In un bacino piccolo il rischio di incontrare conoscenti è alto, e questo **frena anche la domanda**. | Suggerisce di tenere il gruppo **anche** a Torino (lunedì) e/o online |
+| G6 | **Il paese piccolo è un problema clinico, non solo commerciale.** In un gruppo gruppoanalitico è preferibile che i membri non abbiano rapporti fuori dal setting. In un bacino piccolo il rischio di incontrare conoscenti è alto, e questo **frena anche la domanda**. | Suggerisce un **secondo gruppo online**, con persone di provenienza diversa (lo studio di Torino è troppo piccolo) |
 | G7 | **Voce poco riconoscibile.** Testi generati con l'IA senza una revisione forte della tua voce tendono a somigliarsi tutti. | Da controllare |
 
 **Conclusione.** I social non vanno abbandonati: funzionano per la psicoterapia individuale e per la reputazione. Vanno **tolti dal ruolo di canale principale per il gruppo**, che deve partire da tre fonti: (1) i tuoi pazienti, (2) i colleghi invianti, soprattutto SGAI, (3) i partecipanti agli eventi, con un gradino intermedio. Le ~13 ore al mese sui social vanno **ridistribuite** (Fase 3A e 3J).
@@ -143,65 +143,102 @@ Per chi ha un tetto di ~22 ore cliniche a settimana, **il gruppo è la variabile
 
 ---
 
-## 6. Primo confronto con la soglia di uscita (preliminare)
+## 6. Soglia di uscita (rivista dopo le risposte del 28/09)
 
-L'obiettivo dichiarato è di **5.000 € netti al mese**. Prima verifica, **[IPOTESI]** regime forfettario con aliquota al 15%, ENPAP soggettivo al 10%, costi di ~5 k€/anno dopo l'uscita:
+### 6.1 La soglia dichiarata è congrua?
+La tua soglia è di **5.000 € lordi al mese in totale, cioè ≈ 60.000 €/anno di fatturato professionale**. Qui la confronto con il reddito netto che hai oggi. **[IPOTESI da affinare in Fase 4 con il commercialista]**
 
-- 5.000 € netti × 12 = 60.000 € netti/anno. Togliendo ~2.400 € netti di docenza, alla libera professione restano ~57.600 € netti.
-- Fatturato necessario: circa **75.000 €/anno** (circa 70.000 € se fosse applicabile l'aliquota agevolata del 5% per le nuove attività, **da verificare**).
-- Oggi (proiezione 2027) sei a ~20.000 €: **circa 3,7 volte meno**.
-
-**Con i vincoli di oggi (60 €/seduta, nessun gruppo) l'obiettivo non si raggiunge.** 22 h × 60 € × 46 settimane ≈ 60.700 € lordi, cioè ≈ 3.900 € netti al mese, e solo con l'agenda sempre piena.
-
-**Un esempio di combinazione che si avvicina ai 75 k€ restando entro ~22 h:**
-| Voce | Calcolo | Fatturato/anno |
+| | **Oggi, da dipendente (proiezione 2027)** | **Dopo l'uscita, con 60 k€ di fatturato** |
 |---|---|---|
-| Psicoterapia individuale | 16 h × 70 € × 46 settimane | ~51.500 € |
-| 2 gruppi settimanali | 7 × 30 € × 2 × 46 | ~19.300 € |
-| Formazione per Comuni ed enti | ~3 cicli/anno | ~4.500 € |
-| **Totale** | 19 h di clinica + formazione | **~75.300 €** |
+| Stipendio netto | ~24–26 k€ (2.000 €/mese, *12 o 13 mensilità: da confermare*) | — |
+| Libera professione | 20 k€ lordi → **~9–10 k€ netti**: in regime semplificato il reddito si somma allo stipendio ed è tassato all'aliquota IRPEF marginale (35%, più addizionali), a cui si aggiungono ENPAP e ~3,3 k€ di costi | 60 k€ in forfettario al 15%, meno ENPAP e ~5 k€ di costi → **~44 k€ netti** (~48 k€ se si applicasse l'aliquota al 5%) |
+| Docenza universitaria | ~2 k€ netti | a rischio (legata al SSN, §6.5) |
+| **Netto totale** | **~36 k€/anno ≈ 3.000 €/mese** | **~44 k€/anno ≈ 3.650 €/mese** |
+| Benefici che perdi | — | ~8 k€/anno: contributi pensionistici (INPS sullo stipendio contro ENPAP al 10%), TFR, contributo del datore a Perseo Sirio, ferie e malattia pagate |
+| **Netto "equivalente"** | ~36 k€ | **~36 k€** |
 
-**Serve quindi:** (a) triplicare circa la base di pazienti individuali, (b) due gruppi pieni, (c) un adeguamento della tariffa, (d) una linea formativa pagata da enti. In 24 mesi è ambizioso ma plausibile **solo se** il gruppo parte entro 6 mesi e la rete di invianti cresce.
+**Conclusione.** 60 k€ è il tuo **punto di pareggio**, non un margine di comodità: sotto questa cifra, lasciando l'Azienda, staresti peggio di oggi. Propongo di fissare:
+- **Soglia minima di uscita**: fatturato annualizzato ≥ 60 k€ per 6 mesi consecutivi, più un fondo pari a 6 mesi di spese personali e dello studio.
+- **Soglia di comodità**: 65–70 k€.
 
-**⚠️ Dato critico da chiarire.** Se i 5.000 € sono il **reddito totale** di cui hai bisogno, questa è la soglia. Se invece sono l'insieme di libera professione **più** stipendio attuale, o c'è un altro significato, la soglia per lasciare l'Azienda può essere **molto più bassa**: basta sostituire il netto del part-time, più contributi e benefici persi, e l'uscita potrebbe arrivare prima dei 24 mesi. Questo cambia tutto il piano (vedi *Decisioni*).
+### 6.2 Ci si arriva con le ore disponibili?
+| Combinazione dopo l'uscita (~22 h cliniche possibili) | Calcolo | Fatturato/anno |
+|---|---|---|
+| Psicoterapia individuale | 15 h × 72 € (media tra vecchie e nuove tariffe) × 46 settimane | ~49.700 € |
+| 1 gruppo settimanale a Trofarello | 7 × 30 € × 46 | ~9.700 € |
+| Formazione per enti + docenza SGAI | stima | ~4.000 € |
+| **Totale** | **~16,5 h cliniche a settimana** | **~63.400 €** |
+
+Con un secondo gruppo online bastano ~13 h di individuale. **L'obiettivo è quindi raggiungibile senza saturarti**, a condizione che il gruppo parta.
+
+**Il vero problema è il salto.** Finché sei in Azienda il tetto è di ~12 h: 9 h di individuale + 1 gruppo + un po' di formazione fanno **~41 k€**. Per arrivare a 60 k€ devi riempire le ore liberate dall'Azienda, cosa che richiede presumibilmente 6–12 mesi. Serve quindi un **ponte**.
+
+### 6.3 Il ponte: l'aspettativa per avviare un'attività professionale
+L'art. 18 della L. 183/2010, modificato dal D.L. 44/2023 (convertito dalla L. 74/2023), consente ai dipendenti pubblici un'**aspettativa senza assegni fino a 36 mesi, rinnovabile una volta, anche per avviare attività professionali**. La concede l'amministrazione valutando le proprie esigenze organizzative. Durante l'aspettativa non si applica il regime delle incompatibilità dell'art. 53 del D.Lgs. 165/2001 ([Nurse24](https://www.nurse24.it/dossier/pubblico-impiego/pubblico-impiego-aspettativa-attivita-imprenditoriale.html); [Edotto](https://www.edotto.com/articolo/decreto-pa-alla-fiducia-novita-su-aspettativa-assunzioni-e-incarichi); [testo in Gazzetta Ufficiale](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=010G0209&art.idArticolo=18&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-11-09&art.progressivo=0); consultati il 28/09/2026).
+
+**Perché cambia la strategia.** Invece di dimetterti al buio, puoi **provare la libera professione a tempo pieno mantenendo il posto**. Le dimissioni diventano una decisione presa sui dati, non una scommessa. Il costo: nessuno stipendio, nessun contributo INPS e nessuna anzianità durante l'aspettativa. **Da verificare** con l'ufficio del personale e il CCNL Sanità.
+
+### 6.4 Fisco durante la transizione
+- **Oggi**, in regime semplificato, ogni euro in più di libera professione è tassato all'aliquota marginale (35%, più addizionali).
+- **Forfettario dal 2027.** La Legge di Bilancio 2026 ha confermato **per il 2026** la soglia di 35.000 € di redditi da lavoro dipendente dell'anno precedente ([Eutekne](https://www.eutekne.info/Sezioni/Art_1075059_forfetario_con_soglia_a_35_000_euro_per_i_redditi_di_lavoro_dipendente.aspx); [IPSOA](https://www.ipsoa.it/documents/quotidiano/2025/11/04/regime-forfetario-soglia-causa-ostativa-resta-35-000-euro)). **Per il 2027** va verificato se la soglia resta a 35.000 € o torna a 30.000 €. Con un netto di ~2.000 €/mese il tuo reddito da lavoro dipendente potrebbe essere **vicino alla soglia**: va controllato sulla Certificazione Unica.
+- **Quanto vale.** Su 20 k€ di libera professione la differenza è di circa 3 k€ di imposte all'anno; su 40 k€ supera i 7 k€. **È l'azione con il miglior rendimento immediato di tutto il piano.**
+- **Dopo le dimissioni** la causa ostativa legata al lavoro dipendente non opera se il rapporto è cessato. **Da verificare** come si applica durante l'aspettativa, quando il rapporto è sospeso ma non cessato.
+
+### 6.5 Previdenza a 54 anni
+- **INPS dal 1996**: probabilmente sistema **contributivo puro**. Uscendo verso i 56–57 anni avresti ~31–32 anni di contributi. Il diritto alla pensione di vecchiaia resta, ma l'importo sarà più basso perché si interrompe l'accumulo. Il **cumulo gratuito** con i contributi ENPAP va valutato con un patronato, insieme a una simulazione su "La mia pensione futura" (INPS).
+- **Perseo Sirio**: alla cessazione del rapporto puoi mantenere la posizione, riscattarla o trasferirla, ma il contributo del datore si interrompe.
+- **TFR del dipendente pubblico**: i tempi di liquidazione in caso di dimissioni sono differiti. **Da verificare** per pianificare la liquidità.
+- **Docenza universitaria**: è un incarico da "docente a contratto SSN". Uscendo dal SSN potrebbe **decadere**. Da verificare con i corsi di laurea di UniTo e UNIUPO.
 
 ---
 
-## 7. Posizionamento
+## 7. Posizionamento (spiegato meglio)
 
-### Cosa vedo
-Quasi tutto quello che fai è **lavoro con e attraverso i gruppi**: il gruppo terapeutico, l'Aperitivo (gruppo di riflessione), la biblioteca (lettura condivisa), i caregiver (gruppi di sostegno e formazione), la formazione in azienda, perfino il libro, che parla di come *le favole ci vincolano a significati condivisi senza che ne siamo consapevoli*, un tema profondamente gruppoanalitico. **È un'identità coerente che oggi non stai comunicando**: all'esterno appari come "uno psicologo che fa molte cose".
+**Cos'è il posizionamento.** È la risposta a una domanda che le persone si fanno senza dirla: *"Per cosa chiamo proprio lui?"*. Si traduce in una frase che compare sempre uguale: in cima al sito, nella biografia dei social, sul biglietto da visita, nella lettera ai medici di base, nella presentazione all'Aperitivo. Oggi, chi ti incontra vede "uno psicologo che fa tante cose belle", ma non sa quando indicarti a un amico.
 
-### Due posizionamenti possibili
-| | **P1 — "Pensare insieme": lo psicoterapeuta dei gruppi e dei significati condivisi** | **P2 — Specialista clinico: ansia, cibo e corpo negli adulti (EMDR, DNA)** |
-|---|---|---|
-| Messaggio | Molto di quello che ci fa soffrire nasce nelle relazioni e nei significati che condividiamo senza saperlo; nel gruppo si può ripensarlo | Aiuto adulti che vivono ansia, rapporto difficile con il cibo e il corpo, esperienze che non passano |
-| A chi parla | Adulti 35–65 del territorio, comunità, enti, organizzazioni | Pazienti con un problema preciso, MMG, nutrizionisti, dietisti |
-| Cosa tiene insieme | Gruppo, Aperitivo, libro, biblioteca, caregiver, formazione, outdoor | Terapia individuale, gruppi a tema, rete di invio sanitaria |
-| Punto di forza | Unico, difficile da copiare, dà senso a tutto il portfolio | Chiaro per chi invia: "a chi mando chi ha un disturbo alimentare?" |
-| Rischio | Troppo astratto se non tradotto in "per chi e per cosa" | Ti schiaccia su un ambito e mette in ombra il gruppo |
+**"Pensare insieme" era solo un'etichetta di lavoro**, non una frase da pubblicare. Indicava un'osservazione: quasi tutto quello che fai è lavoro **con i gruppi e sulle storie che condividiamo senza saperlo**:
+- il gruppo terapeutico;
+- l'Aperitivo, che è un gruppo di riflessione;
+- la biblioteca, cioè la lettura condivisa;
+- i caregiver, cioè gruppi di formazione e sostegno;
+- la formazione nelle organizzazioni;
+- il libro, che parla proprio di come *le favole ci vincolano a significati condivisi senza che ne siamo consapevoli*, un tema gruppoanalitico.
 
-**Raccomandazione.** **P1 come identità** (sito, social, eventi, libro) e **P2 come specializzazioni cliniche** comunicate soprattutto agli invianti e nelle pagine del sito per problema. Non sono alternativi, ma serve una gerarchia chiara: sulla home deve comparire una sola frase.
+È un filo coerente che oggi non si vede dall'esterno.
+
+**Come diventa concreto.** Tre formulazioni possibili per la frase principale:
+
+| | Frase principale (esempio) | Cosa mette in evidenza | Pro | Contro |
+|---|---|---|---|---|
+| **A** | *"Psicoterapia individuale e di gruppo per adulti. Per riconoscere le storie che ci guidano senza saperlo."* | Il tuo modo di lavorare e il libro | Unica, colta, lega libro, Aperitivo e gruppo | Meno immediata per chi ha un problema urgente |
+| **B** | *"Ansia, rapporto con il cibo, momenti difficili: psicoterapia per adulti, anche in gruppo. Trofarello, Torino e online."* | I problemi che curi | Chiarissima per pazienti e medici di base | Più simile a quella di tanti colleghi |
+| **C** | *"Lo psicologo che lavora con i gruppi: in studio, nella comunità, nelle organizzazioni."* | Il gruppo come competenza distintiva | Tiene insieme clinica, eventi e formazione | Può sembrare rivolta più a enti che a pazienti |
+
+**Raccomandazione.** Frase **A** (o una tua variante) come identità pubblica: sito, social, eventi, libro. Messaggi di tipo **B** nelle comunicazioni ai medici di base e agli altri professionisti che inviano pazienti, e nelle pagine del sito dedicate ai singoli problemi. La **C** si usa solo nelle proposte a enti e organizzazioni. La scelta definitiva spetta a te (vedi le decisioni della Fase 2).
 
 ---
 
 ## 7-bis. Cosa emerge come priorità (anticipazione, non ancora il piano)
-1. **Riempire le 12 ore disponibili** prima di aggiungere nuovi progetti: oggi ne usi circa la metà.
-2. **Far partire il gruppo dall'interno**: pazienti tuoi + invii dei colleghi SGAI, con una data di avvio.
-3. **Misurare**: una domanda fissa a ogni primo colloquio, un contatore delle presenze all'Aperitivo, un foglio mensile.
-4. **Chiarire la soglia di uscita** (cosa significano davvero i 5.000 €).
-5. **Rivedere la tariffa** con un benchmark locale (Fase 3/4).
+1. **Verificare subito l'accesso al forfettario per il 2027** (Certificazione Unica 2026 + commercialista): è il guadagno più rapido.
+2. **Riempire le 12 ore disponibili** con la nuova tariffa di 70–75 € per i nuovi pazienti.
+3. **Far partire il gruppo di Trofarello dall'interno**: pazienti tuoi + invii dei colleghi SGAI, con una data di avvio.
+4. **Misurare**: una domanda fissa a ogni primo colloquio, iscrizione all'Aperitivo, un foglio mensile.
+5. **Informarsi sull'aspettativa** come ponte per l'uscita (senza fare ancora nessuna richiesta).
 
 ---
 
 ## Da verificare
 | # | Cosa | Con chi |
 |---|---|---|
-| 1 | Accesso al forfettario dal 2027: soglia dei redditi da lavoro dipendente dell'anno precedente (30.000 €, elevata a 35.000 € per il 2025 dalla L. 207/2024; va verificata quella applicabile ai redditi 2026) e perché oggi sei in regime semplificato | Commercialista |
-| 2 | Possibilità di applicare l'aliquota agevolata al 5% per i primi 5 anni (requisiti di "nuova attività") | Commercialista |
-| 3 | Docenza universitaria con prestazione occasionale mentre hai una partita IVA di psicologo: va fatturata con la partita IVA? | Commercialista |
-| 4 | Se l'autorizzazione dell'Azienda copre solo la clinica o anche la formazione ad altri enti (Comuni, ECM); regole sul conflitto di interessi | Ufficio del personale / regolamento aziendale sulle incompatibilità |
-| 5 | Regime di fine rapporto effettivo (TFR o TFS: dipende dalla data e dal tipo di assunzione nella PA) e sua liquidazione in caso di dimissioni | Ufficio del personale / INPS |
-| 6 | Posizione pensionistica: contributi INPS dal 1996, effetto delle dimissioni prima della pensione, cumulo con i contributi ENPAP | INPS / patronato; ENPAP |
-| 7 | Contributi minimi ENPAP e aliquota soggettiva scelta | ENPAP |
-| 8 | Norme su pubblicità sanitaria e Codice Deontologico per la promozione del gruppo e degli eventi (L. 145/2018, art. 1 c. 525; articoli del Codice da citare in Fase 2) | Ordine degli Psicologi del Piemonte |
+| 1 | Soglia dei redditi da lavoro dipendente valida per il forfettario 2027 (35.000 € o 30.000 €) e il tuo reddito da lavoro dipendente 2026 | Commercialista, Certificazione Unica |
+| 2 | Aliquota agevolata al 5% per le nuove attività: se la tua attività, avviata di recente in regime semplificato, ha ancora i requisiti | Commercialista |
+| 3 | Forfettario durante l'aspettativa (rapporto sospeso, non cessato) e dopo le dimissioni | Commercialista |
+| 4 | Aspettativa ex art. 18 L. 183/2010: applicabilità al tuo profilo e al part-time, tempi, effetti su contributi, Perseo Sirio e docenza | Ufficio del personale, CCNL Sanità, sindacato |
+| 5 | Formazione verso enti del SSN o committenti in rapporto con l'Azienda: eventuali conflitti di interessi, anche se l'autorizzazione copre la formazione | Ufficio del personale |
+| 6 | Docenza a contratto SSN (UniTo, UNIUPO): se l'incarico resta possibile dopo l'uscita dal SSN | Corsi di laurea |
+| 7 | Posizione pensionistica: sistema di calcolo, stima della pensione con uscita a 56–57 anni, cumulo INPS + ENPAP | Patronato, INPS, ENPAP |
+| 8 | Perseo Sirio: opzioni alla cessazione del rapporto | Perseo Sirio |
+| 9 | TFR: tempi di liquidazione in caso di dimissioni dal pubblico impiego | Ufficio del personale / INPS |
+| 10 | Numero di mensilità (12 o 13) del netto di 2.000 € | Busta paga |
+| 11 | Contributi minimi ENPAP e aliquota soggettiva | ENPAP |
+| 12 | Norme su pubblicità sanitaria e Codice Deontologico (vedi Fase 2) | Ordine degli Psicologi del Piemonte |
