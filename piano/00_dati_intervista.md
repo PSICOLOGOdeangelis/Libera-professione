@@ -58,3 +58,12 @@
 - **Gruppo online**: interessante ma lo ritiene più complicato; chiede aiuto per organizzarlo (vedi Fase 3).
 - **Aperitivo**: disponibile a chiedere un'iscrizione per i prossimi incontri.
 - **Posizionamento "Pensare insieme"**: non chiaro, va spiegato meglio (vedi `01_analisi.md` §7).
+
+## Aggiornamento del 29/09/2026 (risposte alle decisioni della Fase 2)
+- **Frase principale del sito** (già pubblicata): *"Se vuoi conoscere veramente qualcosa, prova a cambiarla." — Kurt Lewin*.
+- **Pesi della griglia**: confermati.
+- **Merenda Psicologica**: sospesa; potrebbe riprendere nel 2027 se ci sarà tempo.
+- **Campagna social per il gruppo**: restano 2 settimane di post già programmati con un loro percorso; poi 1 post al mese.
+- **Gruppo online**: si avvia dopo quello in presenza.
+- **Forfettario**: il reddito da lavoro dipendente 2026 sarà noto a dicembre ed è **vicino al limite dei 35.000 €**.
+- **Aspettativa**: prevista **nel 2028**, o prima se i risultati arrivano in anticipo. Chiederà cosa cambia sul piano contributivo.

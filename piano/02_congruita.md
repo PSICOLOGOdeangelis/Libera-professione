@@ -47,7 +47,7 @@ Il potenziale economico pesa di più (20) perché l'obiettivo dichiarato è arri
 | A3 | Aperitivo Psicologico | 4 | 4 | 1 | 3 | 3 | 5 | 3 | 5 | **65** | **Riprogettare** |
 | A9 | Docenza universitaria | 4 | 4 | 2 | 3 | 2 | 3 | 1 | 4 | **58** | **Mantenere così** |
 | A11 | Campagna social per il gruppo | 3 | 4 | 1 | 2 | 2 | 5 | 3 | 2 | **50** | **Sospendere** (nella forma attuale) |
-| A4 | Merenda Psicologica | 3 | 4 | 1 | 2 | 2 | 4 | 2 | 2 | **47** | **Sospendere definitivamente** |
+| A4 | Merenda Psicologica | 3 | 4 | 1 | 2 | 2 | 4 | 2 | 2 | **47** | **Sospendere** (rivalutare nel 2027) |
 
 ### 2.2 Nuove proposte (valutazione preliminare, da confermare in Fase 3)
 | ID | Proposta | Coer. | Deont. | Econ. | Indir. | Ore | Rischio | Scal. | Senso | **/100** | **Priorità** |
@@ -132,8 +132,8 @@ Rende poco (~20 €/h considerando esami e consigli) ed è **legata al tuo rappo
 ### A11 — Campagna social per il gruppo → SOSPENDERE (50)
 Tre settimane di post senza contatti, per un servizio che, come visto in Fase 1, raramente si riempie dai social. **Si ferma la campagna dedicata, non la comunicazione del gruppo.** Il gruppo resta presente sul sito e in 1 post al mese su 4, dentro il calendario editoriale normale, presentato in modo informativo: tema, formato, orari, costo, come accedere al colloquio preliminare. Le ~7 ore al mese liberate vanno alla rete di invianti (N1).
 
-### A4 — Merenda Psicologica → SOSPENDERE DEFINITIVAMENTE (47)
-Richiede di spostarsi a Torino, ha un valore indiretto basso e si sovrappone al target raggiunto dalla biblioteca. **Decisione proposta: chiudere il format.** Se in futuro servirà un evento a Torino, sarà meglio agganciarlo al circuito bibliotecario (A5) o a una presentazione del libro.
+### A4 — Merenda Psicologica → SOSPENDERE, con rivalutazione nel 2027 (47)
+Richiede di spostarsi a Torino, ha un valore indiretto basso e si sovrappone al target raggiunto dalla biblioteca. **Decisione (29/09): sospesa, da rivalutare nel 2027** solo se ci saranno ore libere dopo l'avvio del gruppo e del ciclo breve. Se in futuro servirà un evento a Torino, sarà meglio agganciarlo al circuito bibliotecario (A5) o a una presentazione del libro.
 
 ---
 
