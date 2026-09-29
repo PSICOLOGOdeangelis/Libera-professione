@@ -67,3 +67,14 @@
 - **Gruppo online**: si avvia dopo quello in presenza.
 - **Forfettario**: il reddito da lavoro dipendente 2026 sarà noto a dicembre ed è **vicino al limite dei 35.000 €**.
 - **Aspettativa**: prevista **nel 2028**, o prima se i risultati arrivano in anticipo. Chiederà cosa cambia sul piano contributivo.
+
+## Aggiornamento del 29/09/2026 (risposte alle decisioni della Fase 3)
+- **Gruppo**: mercoledì sera; avvio possibile già a novembre o dicembre 2026. Gruppo **aperto e misto**, senza titolo e senza tema (è una psicoterapia).
+- **SGAI**: martedì sera.
+- **Studio di Trofarello**: 8 persone, non 10.
+- **Prezzo del gruppo**: 35–40 € a incontro, definito nel colloquio; tariffa ridotta per gli studenti.
+
+## Aggiornamento del 30/09/2026 (risposte alle decisioni della Fase 4)
+- **Spese personali**: 600–900 €/mese.
+- **Scenario di riferimento e regola per l'aspettativa**: non sa rispondere; si adottano per ora lo scenario realistico e la regola dei 7 indicatori su 9 (rivedibili).
+- **Commercialista**: inviata una mail con le domande su Perseo Sirio e sulla soglia del forfettario 2027; in attesa di risposta.

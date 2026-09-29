@@ -7,7 +7,8 @@
 **Settimana di riferimento.**
 - Azienda: martedì, mercoledì e giovedì (a settimane alterne).
 - Torino: lunedì.
-- SGAI: 2 h serali (*serata da confermare*).
+- SGAI: martedì sera.
+- Gruppo: mercoledì sera.
 - Online: distribuito su tutta la settimana.
 
 Tutte le proposte sono state collocate dentro queste fasce.
@@ -34,22 +35,22 @@ Tutte le proposte sono state collocate dentro queste fasce.
 
 | Voce | Proposta |
 |---|---|
-| **Descrizione** | Gruppo gruppoanalitico **semi-aperto** a Trofarello, con un **avvio definito**: una data, un numero minimo di membri, una finestra di colloqui preliminari. Dopo l'avvio, nuovi ingressi solo quando si libera un posto. |
+| **Descrizione** | Gruppo di psicoterapia a orientamento gruppoanalitico, **aperto e misto**, a Trofarello. Si entra dopo uno o più colloqui individuali, quando c'è un posto libero. *(Decisione del 29/09.)* |
 | **Target** | Adulti 30–65 con difficoltà relazionali, ansia, umore, rapporto con il corpo e il cibo, momenti di passaggio. Adatto a chi "ripete sempre gli stessi schemi". |
-| **Nome** | Serve un titolo che parli del problema, non del metodo. Esempi: *"Il gruppo del giovedì — uno spazio per capire come stiamo con gli altri"*; *"Relazioni che si ripetono — gruppo di psicoterapia"*; *"Cambiare insieme"* (richiama la frase di Lewin sul sito). |
-| **Formato** | 7 membri al massimo (partenza con almeno 4); settimanale; 90 minuti; sera, **martedì o mercoledì 19:00–20:30** (da incastrare con la SGAI); impegno minimo iniziale di 3 mesi; pausa ad agosto. |
-| **Prezzo [IPOTESI]** | **30–35 € a incontro**, fatturati mensilmente in anticipo. L'incontro è dovuto anche in caso di assenza: è la regola classica del setting di gruppo e va scritta nel contratto. 1–2 colloqui preliminari alla tariffa individuale. |
-| **Ricavi [IPOTESI]** | Partenza con 4 membri a 30 € × 4 settimane ≈ 480 €/mese; a regime con 7 membri ≈ 840–980 €/mese, cioè **~9–10 k€/anno**. |
+| **Nome e tema** | **Nessun titolo e nessun tema** (decisione del 29/09): è una psicoterapia, non un percorso tematico. Nella comunicazione lo si descrive in modo informativo: *"Gruppo di psicoterapia a orientamento gruppoanalitico, aperto e misto, il mercoledì sera a Trofarello. Accesso dopo un colloquio individuale."* |
+| **Formato** | Fino a 7 membri (lo studio ospita 8 persone, te compreso); settimanale; 90 minuti; **mercoledì sera**, 19:00–20:30 indicativamente (il martedì è della SGAI); pausa ad agosto. |
+| **Prezzo** | **35–40 € a incontro**, definito nel colloquio preliminare; **tariffa ridotta per gli studenti** (esclusi i tuoi studenti universitari, per l'art. 28). La fascia di prezzi va pubblicata in modo trasparente (art. 40). Fatturazione mensile anticipata; incontro dovuto anche in caso di assenza, da scrivere nel contratto. |
+| **Ricavi [IPOTESI]** | Partenza con 3–4 membri a ~37 € × 4 settimane ≈ 450–600 €/mese; a regime con 7 membri ≈ 1.000 €/mese, cioè **~11 k€/anno** (44 settimane). |
 | **Ore/mese** | ~6 di seduta + ~2 di organizzazione e note. Nei 2 mesi di avvio: +4 per i colloqui preliminari. |
 | **Canali di reclutamento** (in ordine di resa attesa) | 1. **Pazienti già in carico**: i 2 candidati più una rilettura dei tuoi casi con il criterio "a chi servirebbe un gruppo?". 2. **Colleghi SGAI e colleghi psicoterapeuti individuali**: lettera + scheda di invio; il gruppo è un'integrazione al *loro* lavoro, non una concorrenza. 3. **Medici di base, nutrizionisti, dietisti** (sezione I). 4. **Partecipanti al ciclo breve** (sezione B). 5. Social e sito: 1 post al mese e una pagina dedicata. |
 | **Requisiti** | Consenso informato specifico per il gruppo (art. 24); **patto di riservatezza tra i membri**; regole su assenze, pagamenti e contatti fuori dal gruppo; verifica della polizza RC; valutazione dei legami tra i membri (art. 28). |
 | **Rischi** | Non raggiungere 4 membri entro la data: si sposta l'avvio di un mese, non si parte con 3. Uscite precoci: si previene con colloqui preliminari accurati e l'impegno minimo di 3 mesi. |
-| **Primo passo concreto** | **Entro 2 settimane**: 1) decidere titolo, serata e data di avvio, proposta **metà gennaio 2027**; 2) scrivere la pagina del sito; 3) inviare la lettera ai colleghi SGAI (modello in Fase 6). |
+| **Primo passo concreto** | **Obiettivo di avvio: mercoledì 4 novembre o 2 dicembre 2026.** Entro metà ottobre: 1) colloqui con i 2 candidati; 2) pagina del sito; 3) lettera ai colleghi SGAI (modello in Fase 6). Con quanti membri partire è una scelta clinica tua; il modello economico considera un avvio con 3–4. |
 
 **Terapia combinata per i 2 candidati.** Clinicamente sai tu se proporre un passaggio sequenziale (dall'individuale al gruppo) o combinato (entrambi con te). Dal punto di vista organizzativo conviene scrivere una regola valida per tutti: cosa si porta da un setting all'altro e come ci si regola con il pagamento.
 
 **Revisione della campagna social.** Le 2 settimane di post già programmati vanno bene come chiusura del loro percorso. Poi:
-- **1 post al mese sul gruppo**, informativo: tema, formato, serata, costo, "come si accede: colloquio preliminare";
+- **1 post al mese sul gruppo**, informativo: orientamento, formato, serata, fascia di prezzo, "come si accede: colloquio preliminare";
 - l'invito all'azione porta **direttamente a WhatsApp o al telefono**, non solo alla home del sito.
 
 **Metriche mensili:**
@@ -135,10 +136,10 @@ Aperitivo (gratuito, aperto)
 |---|---|
 | **Descrizione** | **4–5 incontri** a numero chiuso su un tema. Non è psicoterapia: è un percorso psicoeducativo ed esperienziale, e questo va scritto chiaramente nella proposta e nel consenso. |
 | **Temi possibili** | *"L'ansia: capirla prima di combatterla"*; *"Il cibo e le emozioni"* (per adulti, **non** per persone con DNA in fase acuta); *"Le storie che ci raccontiamo"* (dal libro); *"Cambiare a metà strada"* (transizioni dei 45–65 anni, il target dell'Aperitivo). |
-| **Formato** | 8–12 partecipanti; 90 minuti; stessa serata per 4–5 settimane consecutive. |
-| **Sede** | Studio di Trofarello se ha lo spazio (*quanti posti ci sono?*); altrimenti una sala comunale, parrocchiale o della biblioteca. |
+| **Formato** | Fino a 7 partecipanti nello studio di Trofarello (8 posti, te compreso); per 10–12 partecipanti serve una sala esterna (comunale, parrocchiale, biblioteca). 90 minuti; stessa serata per 4–5 settimane consecutive (né martedì né mercoledì). |
+| **Sede** | Studio di Trofarello (fino a 7 partecipanti) o sala esterna. |
 | **Prezzo [IPOTESI]** | **100–120 € a ciclo** (20–25 € a incontro). |
-| **Ricavi [IPOTESI]** | 10 partecipanti × 110 € = 1.100 € per ciclo; **3 cicli all'anno ≈ 3.300 €**. Il valore principale è indiretto: chi fa un ciclo arriva al colloquio con molta più facilità. |
+| **Ricavi [IPOTESI]** | 7 partecipanti × 120 € = 840 € per ciclo nello studio; 10 in sala esterna × 110 € = 1.100 € meno l'affitto della sala. **3 cicli all'anno ≈ 2,5–3,3 k€**. Il valore principale è indiretto: chi fa un ciclo arriva al colloquio con molta più facilità. |
 | **Ore** | ~10 per ciclo (7,5 di incontro + preparazione), cioè ~2,5 al mese in media. |
 | **Requisiti** | Consenso e informativa; esclusione ragionata dei casi che richiedono cura (con indicazione di un percorso). |
 | **Primo passo** | Scegliere il tema del primo ciclo per **febbraio–marzo 2027** e annunciarlo all'Aperitivo di gennaio. |
@@ -330,7 +331,7 @@ Aperitivo (gratuito, aperto)
 | Linea | Avvio | Ore/mese a regime | Ricavi anno 1 [IPOTESI] | Ricavi anno 2 [IPOTESI] |
 |---|---|---|---|---|
 | Psicoterapia individuale (nuovi pazienti a 70–75 €) | già attiva | 36–48 | 20–24 k€ | 26–30 k€ |
-| A. Gruppo a Trofarello | gennaio 2027 | 8 | 4–6 k€ | 9–10 k€ |
+| A. Gruppo a Trofarello | novembre–dicembre 2026 | 8 | 6–8 k€ | 10–11 k€ |
 | A-bis. Gruppo online | giugno–ottobre 2027 | 8 | 0–1 k€ | 6–8 k€ |
 | B2. Cicli brevi (incluso K3) | febbraio 2027 | 2–3 | 2–3 k€ | 3–4 k€ |
 | D. Caregiver per i Comuni + N5 | Santena, autunno 2026 | 2–4 | 2–3 k€ | 5–6 k€ |
@@ -342,7 +343,7 @@ Aperitivo (gratuito, aperto)
 | **Totale fatturato professionale** | | | **~32–42 k€** | **~59–72 k€** |
 
 **Lettura.**
-- Nell'**anno 2** la combinazione raggiunge l'ordine di grandezza della soglia (60 k€), **ma solo se**: il gruppo parte a gennaio, il gruppo online parte entro l'autunno 2027 e la rete di invianti porta ≥ 2 pazienti al mese.
+- Nell'**anno 2** la combinazione raggiunge l'ordine di grandezza della soglia (60 k€), **ma solo se**: il gruppo parte entro dicembre 2026, il gruppo online parte entro l'autunno 2027 e la rete di invianti porta ≥ 2 pazienti al mese.
 - **Senza l'aspettativa** le ore dell'anno 2 (~70–90 al mese di libera professione) non ci stanno insieme all'Azienda. **L'aspettativa nel 2028 è coerente con questi numeri.**
 - Dal 2027 va monitorata anche la soglia degli 85 k€ del forfettario, che per ora è lontana.
 - La Fase 4 trasformerà questi intervalli in tre scenari mese per mese.
