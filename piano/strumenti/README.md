@@ -10,6 +10,7 @@
 | 04 | [Modulo di iscrizione all'Aperitivo](04_modulo_iscrizione_aperitivo.md) | Campi del modulo, consensi separati, informativa privacy | Dal prossimo Aperitivo |
 | 05 | [Scaletta dell'Aperitivo](05_scaletta_aperitivo.md) | Struttura di 90 minuti con la chiusura informativa, note deontologiche, modello della scheda di esercizi | A ogni Aperitivo |
 | 06 | [Calendario editoriale](06_calendario_editoriale.md) | 13 settimane di post (19 ottobre – 17 gennaio), blog, newsletter, metriche | Dopo la fine della campagna attuale |
+| 08 | [Campagna Comuni](08_campagna_comuni.md) | Proposta del format caregiver a 7–8 Comuni e al consorzio: email, sequenza dei contatti, limite di capacità, registro | **Ottobre–novembre 2026** (bilanci 2027) |
 | 07 | [Dashboard KPI mensile](07_dashboard_kpi_mensile.csv) | Una riga per mese (ottobre 2026 – dicembre 2028) con gli **obiettivi dello scenario realistico** già inseriti e le colonne da compilare | Primo lunedì di ogni mese (30 minuti) |
 
 ## Come usare la dashboard (07)

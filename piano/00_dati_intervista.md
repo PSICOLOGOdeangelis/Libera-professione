@@ -78,3 +78,6 @@
 - **Spese personali**: 600–900 €/mese.
 - **Scenario di riferimento e regola per l'aspettativa**: non sa rispondere; si adottano per ora lo scenario realistico e la regola dei 7 indicatori su 9 (rivedibili).
 - **Commercialista**: inviata una mail con le domande su Perseo Sirio e sulla soglia del forfettario 2027; in attesa di risposta.
+
+## Aggiornamento del 05/10/2026
+- **Formazione caregiver**: proposta anche ai Comuni di Poirino, Cambiano, Villanova, Moncalieri, Carmagnola e Chieri, visti i tempi lunghi delle amministrazioni (vedi `strumenti/08_campagna_comuni.md`).
